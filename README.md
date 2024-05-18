@@ -15,11 +15,13 @@ Collaborative Environment: I actively collaborated with a team of talented profe
 I encourage you to explore the repository further and delve into the specific projects, learnings, and insights I've documented.
 
 
+
 **Task 1: Understanding Basic Data Structures**
 
 Description: This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
 
 Responsibility: Wrote a Python program to create a list, a dictionary, and a set, that can perform basic operations like adding, removing, and modifying elements.
+
 
 
 **Task 2: Data Manipulation with Pandas**
