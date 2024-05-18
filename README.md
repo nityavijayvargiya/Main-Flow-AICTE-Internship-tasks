@@ -3,7 +3,7 @@ Data Science with Python Internship at Main Flow Services and Technologies 🚀
 
 This GitHub repository serves as a professional record of my internship experience as a Data Science with Python Intern at Main Flow Services and Technologies. Here, you'll find a curated collection of learnings, projects, and insights I've gained throughout the internship.
 
-Key Focus Areas:
+**Key Focus Areas:**
 
 Python Proficiency: I've honed my Python skills to effectively analyze data, manipulate datasets, and extract valuable information.
 
@@ -16,14 +16,14 @@ Collaborative Environment: I actively collaborated with a team of talented profe
 I encourage you to explore the repository further and delve into the specific projects, learnings, and insights I've documented.
 
 
-Task 1: Understanding Basic Data Structures
+#Task 1: Understanding Basic Data Structures
 
 Description: This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
 
 Responsibility: Wrote a Python program to create a list, a dictionary, and a set, that can perform basic operations like adding, removing, and modifying elements.
 
 
-Task 2: Data Manipulation with Pandas
+#Task 2: Data Manipulation with Pandas
 
 Description: This task involves using the Pandas library to manipulate data.
 
