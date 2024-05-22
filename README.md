@@ -18,14 +18,19 @@ I encourage you to explore the repository further and delve into the specific pr
 
 **Task 1: Understanding Basic Data Structures**
 
-Description: This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
+- Description: This task involves understanding the basic data types in Python such as lists, dictionaries, and sets.
 
-Responsibility: Wrote a Python program to create a list, a dictionary, and a set, that can perform basic operations like adding, removing, and modifying elements.
+- Responsibility: Wrote a Python program to create a list, a dictionary, and a set, that can perform basic operations like adding, removing, and modifying elements.
 
 
 
 **Task 2: Data Manipulation with Pandas**
 
-Description: This task involves using the Pandas library to manipulate data.
+- Description: This task involves using the Pandas library to manipulate data.
 
-Responsibility: Loaded a CSV file into a Pandas DataFrame and performed operations like filtering data based on conditions, handling missing values, and calculating summary statistics
+- Responsibility: Loaded a CSV file into a Pandas DataFrame and performed operations like filtering data based on conditions, handling missing values, and calculating summary statistics
+
+**Task 3: Data Visualization with Matplotlib**
+
+- Description:This task involves using the matplotlib library to visualize data.
+- Responsibility: Create a bar chart and a line chart using Matplotlib to visualize data from a Pandas DataFrame. Customize the charts with labels, titles, and legends.
